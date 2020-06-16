@@ -1,7 +1,13 @@
 .root {
     width: 100vw;
     padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     /* height: 100vh; */
+}
+.container {
+    max-width: 1200px;
 }
 .all_height {
     height: 100vh;
@@ -12,8 +18,7 @@
     align-items: center;
 }
 .info_image {
-    width: 40vw;
-    height: 40vw;
+    width: 480px;
 }
 .title {
     font-size: 24px;

@@ -50,7 +50,7 @@ class Information extends React.Component {
         const { name, image, desc, price } = this.props.location.state
         return (
             <div className={style.root}>
-                <Row>
+                <Row className={style.container}>
                     <Col span={12} className={[style.all_height, style.left_page]}>
                         <img src={image} className={style.info_image}></img>
                     </Col>

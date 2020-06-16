@@ -59,7 +59,8 @@
     margin-top: 50px;
 }
 .container {
-    width: 100%;
+    /* width: 100%; */
+    max-width: 1200px;
     padding-top: 50px;
     display: flex;
     flex-wrap: wrap;
