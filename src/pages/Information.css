@@ -1,0 +1,74 @@
+.root {
+    width: 100vw;
+    padding-top: 50px;
+    /* height: 100vh; */
+}
+.all_height {
+    height: 100vh;
+}
+.left_page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.info_image {
+    width: 40vw;
+    height: 40vw;
+}
+.title {
+    font-size: 24px;
+    font-weight: 400;
+    color: #333;
+    margin-top: 50px;
+}
+.desc {
+    font-size: 16px;
+    color: #b0b0b0;
+}
+.price {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 400;
+    background: linear-gradient(to right, #ee692d, #eb5440);
+    color: #fff;
+}
+.banben_title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #333;
+}
+.color_title {
+    font-size: 20px;
+    font-weight: 400;
+    color: #333;
+    margin-top: 20px;
+}
+.total {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+}
+.total_desc {
+    font-size: 16px;
+    color: #616161;
+    margin-bottom: 10px;
+}
+.total_money {
+    font-size: 24px;
+    color: #ff6700;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.button {
+    margin-top: 20px;
+}
+.buttonGrop {
+    width: 100%;
+}

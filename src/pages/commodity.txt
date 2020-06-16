@@ -1,0 +1,19 @@
+name: Redmi K30 5G
+image: https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575882053.33827103.jpg
+desc: 双模5G，120Hz流速屏
+price: 1999
+
+name: Redmi K30
+image: https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1575881724.64226888.jpg
+desc: 120Hz流速屏，全速热爱
+price: 1699
+
+name: 小米10 Pro
+image: https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1581493274.50817754.jpg
+desc: 骁龙865 / 50倍变焦
+price: 4999
+
+name: Redmi 8
+image: https://i1.mifile.cn/f/i/2019/redmi1014/specs-1.png
+desc: 5000mAh超长续航
+price: 799
