@@ -1,3 +1,16 @@
-# ReactDemo
-这是一个react项目模版，下载之后建议在根目录添加 dist文件夹，然后运行命令: `yarn install`来下包
-最后运行`yarn start`就可以运行项目了
+# ShoppingCart
+这是一个购物车项目，能够展现出购物车所有的功能
+# 安装所有依赖包
+```javascript
+// yarn
+yarn install
+// npm
+npm install
+```
+# 启动项目
+```javascript
+// yarn 
+yarn start
+// npm
+npm run start
+```
