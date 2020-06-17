@@ -10,7 +10,7 @@
     max-width: 1200px;
 }
 .all_height {
-    height: 100vh;
+    max-height: 100vh;
 }
 .left_page {
     display: flex;
